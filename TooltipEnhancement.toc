@@ -1,6 +1,7 @@
 ## Interface: 110002
 ## Title: Tooltip Enhancement
 ## Author: kazte
-## Version: 0.0.1
+## Version: @project-version@
+## X-Wago-ID: QN5m53NB
 
 ChatlinkTooltips.lua
