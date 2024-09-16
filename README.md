@@ -2,6 +2,8 @@
 
 # Tooltip Enhancement
 
+<img src='https://i.imgur.com/vzXQqSa.png' alt='Tooltip Enhancement logo' style="width: 30%;">
+
 TooltipEnhancement is a World of Warcraft addon designed to impove the default tooltip system.
 
 </div>
