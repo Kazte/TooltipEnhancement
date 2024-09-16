@@ -3,5 +3,6 @@
 ## Author: kazte
 ## Version: @project-version@
 ## X-Wago-ID: QN5m53NB
+## X-Curse-Project-ID: 1103941
 
 TooltipEnhancement.lua
