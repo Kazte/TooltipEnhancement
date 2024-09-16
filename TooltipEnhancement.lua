@@ -35,3 +35,10 @@ for i = 1, NUM_CHAT_WINDOWS do
     setOrHookHandler(frame, "OnHyperLinkLeave", hideTooltip)
   end
 end
+
+local guildChat = CommunitiesFrame.Chat.MessageFrame
+
+if guildChat then
+  setOrHookHandler(guildChat, "OnHyperLinkEnter", showTooltip)
+  setOrHookHandler(guildChat, "OnHyperLinkLeave", hideTooltip)
+end
