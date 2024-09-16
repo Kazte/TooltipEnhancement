@@ -1,0 +1,6 @@
+## Interface 110002
+## Title: Tooltip Enhancement
+## Author: kazte
+## Version: 0.0.1
+
+ChatlinkTooltips.lua
