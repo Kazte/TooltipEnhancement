@@ -4,4 +4,4 @@
 ## Version: @project-version@
 ## X-Wago-ID: QN5m53NB
 
-ChatlinkTooltips.lua
+TooltipEnhancement.lua
