@@ -1,10 +1,10 @@
-<h3 align='center' style='font-size: 3rem;'>Tooltip Enhancement</h1>
+<div align="center" style="text-align:center">
 
----
-
-## Description
+# Tooltip Enhancement
 
 TooltipEnhancement is a World of Warcraft addon designed to impove the default tooltip system.
+
+</div>
 
 ## Features
 
