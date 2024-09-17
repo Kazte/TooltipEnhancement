@@ -2,6 +2,7 @@
 ## Title: Tooltip Enhancement
 ## Author: kazte
 ## Version: @project-version@
+## X-Date: @project-date-iso@
 ## X-Wago-ID: QN5m53NB
 ## X-Curse-Project-ID: 1103941
 ## X-WoWI-ID: 26849
